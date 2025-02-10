@@ -1,6 +1,6 @@
 •	👋 Hi, I’m @Akanksha Sawant 
 
-•	👀 I’m interested in data/Python/django/SQL!
+•	👀 I’m interested in data/Python/Django/SQL/C++/PowerBI/Excel!
 
 •	🌱 I’m currently working hard to upskill my data analytics toolkit. 
 
